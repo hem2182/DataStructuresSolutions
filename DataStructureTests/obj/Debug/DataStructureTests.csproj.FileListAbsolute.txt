@@ -1,0 +1,16 @@
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\DataStructureTests.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\DataStructureTests.pdb
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\DataStructureLibrary.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\DataStructureLibrary.pdb
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\obj\Debug\DataStructureTests.csprojAssemblyReference.cache
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\obj\Debug\DataStructureTests.csproj.CoreCompileInputs.cache
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\obj\Debug\DataStructureTests.csproj.CopyComplete
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\obj\Debug\DataStructureTests.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureTests\obj\Debug\DataStructureTests.pdb

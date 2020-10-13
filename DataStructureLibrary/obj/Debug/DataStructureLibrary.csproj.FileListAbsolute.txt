@@ -1,0 +1,6 @@
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\bin\Debug\DataStructureLibrary.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\bin\Debug\DataStructureLibrary.pdb
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\obj\Debug\DataStructureLibrary.csprojAssemblyReference.cache
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\obj\Debug\DataStructureLibrary.csproj.CoreCompileInputs.cache
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\obj\Debug\DataStructureLibrary.dll
+C:\Code\VisualStudioSolutions\DataStructureSolutions\DataStructureLibrary\obj\Debug\DataStructureLibrary.pdb
